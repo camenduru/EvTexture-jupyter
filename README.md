@@ -21,6 +21,7 @@ https://dachunkai.github.io/evtexture.github.io/
 
 ### 🖼 Output
 
+https://github.com/camenduru/EvTexture-jupyter/assets/54370274/8458b016-c72a-4b8c-8490-f0b27e542f52
 
 ### 🏢 Sponsor
 https://runpod.io
